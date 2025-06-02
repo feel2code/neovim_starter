@@ -35,6 +35,13 @@ return {
     end,
   },
 
+  {
+    "ThePrimeagen/vim-be-good"
+  },
+  {
+    "github/copilot.vim"
+  },
+
   -- test new blink
   -- { import = "nvchad.blink.lazyspec" },
 
